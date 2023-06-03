@@ -1,10 +1,8 @@
 #Wellcome to Dungeons and Py, by Gabriel de Oliveira.
 from time import sleep
-from random import sample, randint
+import random
 print ('''
-    Você é um aluno da Fatec prof Jessen Vidal, porém algo não está certo...
-    A Fatec está mais vazia do que nunca, nenhum aluno está nos corredores, um momento!
-    Você avista o Benê, secretário da faculdade, ele parece estar te chamando, talvez ele queira dizer algo...
+   V...
     ''')
 sleep(1)
 #Definindo atributos iniciais
